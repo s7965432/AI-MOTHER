@@ -1,35 +1,47 @@
 # 任務佇列
 
-## P0
+## TASK-001
 
-作圖恢復計畫
-
-狀態：
-進行中
-
----
-
-## P1
-
-人體模組庫建立
-
-狀態：
-未開始
-
----
-
-## P2
-
+名稱：
 蟲洞研究
 
+負責房間：
+WORLD_ROOM
+
+輸出位置：
+WORLD_ROOM/wormhole_research.md
+
 狀態：
 進行中
 
 ---
 
-## P2
+## TASK-002
 
-負能量研究
+名稱：
+建立故障資料庫
+
+負責房間：
+FAILURE_ROOM
+
+輸出位置：
+FAILURE_ROOM/error_database.md
 
 狀態：
-未開始
+進行中
+
+---
+
+## TASK-003
+
+名稱：
+建立系統索引
+
+負責房間：
+MEMORY_ROOM
+
+輸出位置：
+MEMORY_ROOM/memory_index.md
+
+狀態：
+進行中
