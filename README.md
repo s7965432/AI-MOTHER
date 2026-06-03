@@ -1,4 +1,4 @@
-# AI-MOTHER
+# AI-MOTHER v0.1
 
 ## 系統架構
 
