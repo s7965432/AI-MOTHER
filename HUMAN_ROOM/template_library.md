@@ -1,0 +1,51 @@
+# 角色模板庫
+
+## TEMPLATE-001
+
+FACE-010
+SKELETON-005
+CHEST-003
+LEG-018
+
+類型：
+
+偶像
+
+---
+
+## TEMPLATE-002
+
+FACE-024
+SKELETON-004
+CHEST-004
+LEG-022
+
+類型：
+
+幻想
+
+---
+
+## TEMPLATE-003
+
+FACE-035
+SKELETON-011
+CHEST-012
+LEG-026
+
+類型：
+
+指揮官
+
+---
+
+## TEMPLATE-004
+
+FACE-040
+SKELETON-014
+CHEST-010
+LEG-030
+
+類型：
+
+旗艦泛用
